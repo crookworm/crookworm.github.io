@@ -2,9 +2,14 @@ globaldriver amdgpu
 globalminer claymore
 maxgputemp 85
 stratumproxy enabled
-claymore=proxywallet 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
-claymore=proxypool1 etc-us-east1.nanopool.org:19999
-claymore=proxypool2 etc-us-west1.nanopool.org:19999
+globalpowertune 7
+globalcore 1150
+claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
+claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+#claymore=proxywallet 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
+#claymore=proxypool1 etc-us-east1.nanopool.org:19999
+#claymore=proxypool2 etc-us-west1.nanopool.org:19999
 claymore=poolpass1 x
 claymore=poolpass2 x
 #
