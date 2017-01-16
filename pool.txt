@@ -1,7 +1,7 @@
 globaldriver amdgpu
 globalminer claymore
 maxgputemp 85
-stratumproxy enabled
+stratumproxy nicehash
 globalpowertune 7
 globalcore 1150
 claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
