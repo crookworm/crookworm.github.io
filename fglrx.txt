@@ -1,11 +1,9 @@
 globaldriver fglrx
-globalminer claymore-zcash
+globalminer optiminer-zcash
 maxgputemp 85
 globalpowertune 50
+globalcore 1100
 stratumproxy enabled
-#claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f.rxrig
-#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 claymore=proxywallet 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
 claymore=proxypool1 etc-us-east1.nanopool.org:19999
 claymore=proxypool2 etc-us-west1.nanopool.org:19999
@@ -14,8 +12,8 @@ claymore=poolpass2 x
 #
 #polo
 claymore-zcash=proxywallet t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2.r9
-claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:13333
-claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:13333
+claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:3443
+claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:3443
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #
