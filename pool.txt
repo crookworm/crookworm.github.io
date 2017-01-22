@@ -3,7 +3,6 @@ globalminer claymore
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
-globalcore 1150
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f.rxrig
 #claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
 #claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
