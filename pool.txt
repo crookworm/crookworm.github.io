@@ -1,5 +1,5 @@
 globaldriver amdgpu
-globalminer claymore
+globalminer claymore-zcash
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
@@ -13,9 +13,9 @@ claymore=proxypool2 etc-us-west1.nanopool.org:19999
 claymore=poolpass1 x
 claymore=poolpass2 x
 #
-claymore-zcash=proxywallet t1ezmF7Sn5gURut8ZDhahHf1NkK5JNXJqiN
-claymore-zcash=proxypool1 zec-us-east1.nanopool.org:16633
-claymore-zcash=proxypool2 zec-us-west1.nanopool.org
+claymore-zcash=proxywallet ultralord
+claymore-zcash=proxypool1 ssl://zcl.suprnova.cc:4142
+claymore-zcash=proxypool2 zcl.suprnova.cc:4042
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #
