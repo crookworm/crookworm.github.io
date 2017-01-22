@@ -20,6 +20,8 @@ claymore=poolpass2 x
 #claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:3443
 #mph
 claymore-zcash=proxywallet ultralord
+#claymore-zcash=proxypool1 ssl://zcl.suprnova.cc:4142
+#claymore-zcash=proxypool2 ssl://zcl.suprnova.cc:4142
 claymore-zcash=proxypool1 ssl://us-east.equihash-hub.miningpoolhub.com:20575
 claymore-zcash=proxypool2 ssl://us-east1.zclassic.miningpoolhub.com:20575
 claymore-zcash=poolpass1 x
