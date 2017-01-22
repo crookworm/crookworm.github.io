@@ -1,5 +1,5 @@
 globaldriver amdgpu
-globalminer claymore-zcash
+globalminer claymore
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
