@@ -30,6 +30,9 @@ claymore-zcash=poolpass2 x
 sgminer-gm-xmr=proxywallet 47sghzufGhJJDQEbScMCwVBimTuq6L5JiRixD8VeGbpjCTA12noXmi4ZyBZLc99e66NtnKff34fHsGRoyZk3ES1s1V4QVcB.3939f32d610c47d544a5b2b59aa776343be5c0fea531896b8fe2908fb031e76e
 sgminer-gm-xmr=proxypool1 xmr-us-east1.nanopool.org:14444
 sgminer-gm-xmr=proxypool2 xmr-us-west1.nanopool.org:14444
+#sgminer-gm-xmr=proxywallet ultralord
+#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+#sgminer-gm-xmr=proxypool2 us-east1.monero.miningpoolhub.com:20580
 sgminer-gm-xmr=poolpass1 x
 sgminer-gm-xmr=poolpass2 x
 #
