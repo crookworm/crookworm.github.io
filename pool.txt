@@ -20,7 +20,7 @@ claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #
 sgminer-gm-xmr=proxywallet ultralord 
-sgminer-gm-xmr=proxypool1 xmr.suprnova.cc:5222
+sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
 sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
 sgminer-gm-xmr=poolpass1 x
 sgminer-gm-xmr=poolpass2 x
