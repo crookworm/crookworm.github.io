@@ -1,5 +1,6 @@
 globaldriver amdgpu
-globalminer sgminer-gm-xmr
+miner 2328dc sgminer-gm-xmr
+miner 1a3064 sgminer-gm-xmr
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
