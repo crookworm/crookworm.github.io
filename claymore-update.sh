@@ -1,4 +1,5 @@
 #!/bin/bash
+sudo su
 cd /opt/miners/ && disallow && minestop && rm -f /opt/miners/claymore-zcash-latest.tar.gz
 wget http://update.ethosdistro.com/miners/claymore-zcash/claymore-zcash-latest.tar.gz
 tar -xvf claymore-zcash-latest.tar.gz -C /opt/miners/claymore-zcash --strip-components=1
