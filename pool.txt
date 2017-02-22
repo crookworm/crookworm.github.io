@@ -20,9 +20,12 @@ claymore-zcash=proxypool2 zcl.suprnova.cc:4042
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #
-sgminer-gm-xmr=proxywallet ultralord 
-sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
+#sgminer-gm-xmr=proxywallet ultralord 
+#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+#sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
+sgminer-gm-xmr=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
+sgminer-gm-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
+sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
 sgminer-gm-xmr=poolpass1 x
 sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
