@@ -1,9 +1,14 @@
 globaldriver amdgpu
 miner 2328dc claymore
-miner 1a3064 claymore
+miner 1a3064 sgminer-gm
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
+sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+sgminer-gm=proxypool1 eth-us-east1.nanopool.org:9999
+sgminer-gm=proxypool2 eth-us-west1.nanopool.org:9999
+sgminer-gm=poolpass1 x
+sgminer-gm=poolpass2 x
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f.rxrig
 #claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
 #claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
