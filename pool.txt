@@ -3,7 +3,7 @@ miner 2328dc claymore
 miner 1a3064 claymore
 maxgputemp 85
 stratumproxy enabled
-globalpowertune 4
+globalpowertune 3
 globalcore 1150
 mem 1a3064 2000 2000 2000 2000 2000 2150
 sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
