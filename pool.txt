@@ -38,7 +38,7 @@ sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
 sgminer-gm-xmr=poolpass1 x
 sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 75
+globalfan 85
 custompanel hybrid007007
 
 # ethOS Pool: ethosdistro.com/pool
