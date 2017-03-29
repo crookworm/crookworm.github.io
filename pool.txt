@@ -4,7 +4,7 @@ miner 1a3064 claymore
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
-mem 2328dc 2000 2000 2000 2000
+mem 2328dc 2000 2000 2000 2000 2000
 sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
 sgminer-gm=proxypool1 eth-us-east1.nanopool.org:9999
 sgminer-gm=proxypool2 eth-us-west1.nanopool.org:9999
