@@ -1,6 +1,6 @@
 globaldriver amdgpu
 miner 2328dc claymore
-miner 1a3064 claymore-zcash
+miner 1a3064 claymore
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 7
