@@ -4,6 +4,7 @@ miner 1a3064 claymore
 maxgputemp 90
 stratumproxy enabled
 globalpowertune 5
+cor 1a3064 1150 1150 1150 1150 1150 1150
 #globalcore 1150
 #mem 2328dc 1950 1950 1950 1950 1950
 sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
