@@ -19,3 +19,5 @@ Payment ID - 3939f32d610c47d544a5b2b59aa776343be5c0fea531896b8fe2908fb031e76e
 MyMonero Deposit - 47g24iCRvthX8KCqsrygJHQXZmUAJcPWL9tKD3yL7B76EQMnEvtgZaufrjqi2cy9V41iJa7dx2e7fQ1WPs6Ju99US9p48hb
 ----------------------------------------------------------------
 Bittrex ZCL - t1aDA4FmLQFvcmy6gcbAMkMox9pVj6wdcmn
+----------------------------------------------------------------
+Stratis - ShZxyDvdnkdyAFvLq1JbzGGMbEBYp9Zsyp
