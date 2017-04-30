@@ -1,46 +1,23 @@
-globaldriver fglrx
 globalminer claymore-zcash
 maxgputemp 85
 stratumproxy enabled
 flags --cl-global-work 8192 --farm-recheck 200
 globalpowertune 50
-globalcore 1100
-globalfan 75
+#globalcore 1100
+globalfan 85
 custompanel hybrid007007
 #
-claymore=proxywallet 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
+claymore=proxywallet 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 claymore=proxypool1 etc-us-east1.nanopool.org:19999
 claymore=proxypool2 etc-us-west1.nanopool.org:19999
 claymore=poolpass1 x
 claymore=poolpass2 x
 #
-#polo
-#claymore-zcash=proxywallet t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2.r9
-#claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:3443
-#claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:3443
-#mph
-claymore-zcash=proxywallet ultralord
-#claymore-zcash=proxypool1 ssl://zcl.suprnova.cc:4142
-#claymore-zcash=proxypool2 ssl://zcl.suprnova.cc:4142
-claymore-zcash=proxypool1 ssl://us-east.equihash-hub.miningpoolhub.com:20575
-claymore-zcash=proxypool2 ssl://us-east1.zclassic.miningpoolhub.com:20575
+claymore-zcash=proxywallet t1ezmF7Sn5gURut8ZDhahHf1NkK5JNXJqiN.290
+claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:3443
+claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:3443
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
-#
-sgminer-gm-xmr=proxywallet 47sghzufGhJJDQEbScMCwVBimTuq6L5JiRixD8VeGbpjCTA12noXmi4ZyBZLc99e66NtnKff34fHsGRoyZk3ES1s1V4QVcB.3939f32d610c47d544a5b2b59aa776343be5c0fea531896b8fe2908fb031e76e
-sgminer-gm-xmr=proxypool1 xmr-us-east1.nanopool.org:14444
-sgminer-gm-xmr=proxypool2 xmr-us-west1.nanopool.org:14444
-#sgminer-gm-xmr=proxywallet ultralord
-#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#sgminer-gm-xmr=proxypool2 us-east1.monero.miningpoolhub.com:20580
-sgminer-gm-xmr=poolpass1 x
-sgminer-gm-xmr=poolpass2 x
-#
-optiminer-zcash=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f.fatal1ty
-optiminer-zcash=proxypool1 equihash.usa.nicehash.com:3357
-optiminer-zcash=proxypool2 equihash.eu.nicehash.com:3357
-
-
 
 # ethOS Pool: ethosdistro.com/pool
 #
