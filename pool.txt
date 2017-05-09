@@ -2,7 +2,7 @@ globaldriver amdgpu
 miner 2328dc claymore
 miner 1a3064 claymore
 maxgputemp 90
-stratumproxy enabled
+stratumproxy nicehash
 globalpowertune 5
 cor 1a3064 1150 1150 1150 1150 1150 1150
 #globalcore 1150
