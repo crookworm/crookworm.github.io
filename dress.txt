@@ -21,4 +21,6 @@ MyMonero Deposit - 47g24iCRvthX8KCqsrygJHQXZmUAJcPWL9tKD3yL7B76EQMnEvtgZaufrjqi2
 ----------------------------------------------------------------
 Bittrex ZCL - t1aDA4FmLQFvcmy6gcbAMkMox9pVj6wdcmn
 ----------------------------------------------------------------
+Bittrex ZEN - zneqCiiTSCWCTQVcg7VLoLE6mWUaRsdhDzv
+----------------------------------------------------------------
 Stratis - ShZxyDvdnkdyAFvLq1JbzGGMbEBYp9Zsyp
