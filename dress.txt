@@ -25,3 +25,5 @@ Bittrex ZEN - zneqCiiTSCWCTQVcg7VLoLE6mWUaRsdhDzv
 ----------------------------------------------------------------
 Polo Sia - 3942da963b802f7a5afc4bdd6c411410d630995e64cf4cd4587a86b06d7aab971a6b80aba2f3
 Stratis - ShZxyDvdnkdyAFvLq1JbzGGMbEBYp9Zsyp
+
+Cryptopia GBYTE - VE7AHA6IQS57MGTZ4RZ3DJWJKGWDUWOW
