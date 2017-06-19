@@ -5,6 +5,7 @@ maxgputemp 90
 stratumproxy enabled
 globalpowertune 5
 cor 1a3064 1150 1150 1150 1150 1150 1150
+mem 1a3064 2150 2150 2125 2150 2150 2150
 #globalcore 1150
 #mem 2328dc 1950 1950 1950 1950 1950
 ###
