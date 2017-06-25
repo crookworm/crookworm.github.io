@@ -10,6 +10,7 @@ ETH Trezor - 0xaCf22E92d2B4C0f4fF7AfCfA39d27842507382FD
 myetherwallet - 0xbfc2993ebB5f122C29D017bF12905c7649DCB2c1
 ----------------------------------------------------------------
 ZEC - t1ezmF7Sn5gURut8ZDhahHf1NkK5JNXJqiN
+ZEC Trezor - t1XgwDokpZL8cHZp8mMzCjVs1tfkVHSxDLo
 Polo ZEC - t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2
 ----------------------------------------------------------------
 ETC - 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
