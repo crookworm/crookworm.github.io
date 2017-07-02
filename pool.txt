@@ -9,33 +9,34 @@ cor 1a3064 1150 1150 1150 1150 1150 1150
 #mem 2328dc 1950 1950 1950 1950 1950
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
-#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 ###
 #claymore=proxywallet 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
 #claymore=proxypool2 etc-us-west1.nanopool.org:19999
 ###
-claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-claymore=proxypool1 eth-us-east1.nanopool.org:9999
-claymore=proxypool2 eth-us-west1.nanopool.org:9999
+#claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#claymore=proxypool1 eth-us-east1.nanopool.org:9999
+#claymore=proxypool2 eth-us-west1.nanopool.org:9999
 claymore=poolpass1 x
 claymore=poolpass2 x
 #
-claymore-zcash=proxywallet t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2
-claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:3443
-claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:3443
-claymore-zcash=poolpass1 x
-claymore-zcash=poolpass2 x
+#claymore-zcash=proxywallet t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2
+#claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:3443
+#claymore-zcash=proxypool2 ssl://eu1-zcash.flypool.org:3443
+#claymore-zcash=poolpass1 x
+#claymore-zcash=poolpass2 x
 #
-sgminer-gm-xmr=proxywallet ultralord 
-sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
+#sgminer-gm-xmr=proxywallet ultralord 
+#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+#sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
 #sgminer-gm-xmr=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
 #sgminer-gm-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
 #sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
-sgminer-gm-xmr=poolpass1 x
-sgminer-gm-xmr=poolpass2 x
+#sgminer-gm-xmr=poolpass1 x
+#sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 custompanel hybrid007007
