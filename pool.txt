@@ -2,24 +2,24 @@
 miner 2328dc claymore
 miner 1a3064 claymore
 maxgputemp 90
-stratumproxy nicehash
+stratumproxy enabled
 globalpowertune 5
 cor 1a3064 1150 1150 1150 1150 1150 1150
 #globalcore 1150
 #mem 2328dc 1950 1950 1950 1950 1950
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
-claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+#claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 ###
 #claymore=proxywallet 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
 #claymore=proxypool2 etc-us-west1.nanopool.org:19999
 ###
-#claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-#claymore=proxypool1 eth-us-east1.nanopool.org:9999
-#claymore=proxypool2 eth-us-west1.nanopool.org:9999
+claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+claymore=proxypool1 eth-us-east1.nanopool.org:9999
+claymore=proxypool2 eth-us-west1.nanopool.org:9999
 claymore=poolpass1 x
 claymore=poolpass2 x
 #
