@@ -31,6 +31,12 @@ Stratis - ShZxyDvdnkdyAFvLq1JbzGGMbEBYp9Zsyp
 
 Cryptopia GBYTE - VE7AHA6IQS57MGTZ4RZ3DJWJKGWDUWOW
 
+Cryptopia BCN - 27n1oydPwgV5idbXboXer4h3m2WhEjW8FSzrKAfoZs1s9pu9JzWtY5SHH824dQUjLGSWyTf8r1R2W7jLcPj61jWNUBa4s8y
+Cryptopia BCN Payment ID - b4bb8cd1a2f6111cfd496af542c881373ce47afb69a553f56ea9602d6427be56
+
+Cryptopia SIGT - B8yfQfzz8U5ufdA3He8NBA5LCMo6Z8uTQS
+
+Cryptopia DNR - DLdkay48eEE1iZuAarCmybDhGy6nbtNwQ3
 ---------------------------------------------------------------
 
 BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
