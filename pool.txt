@@ -1,12 +1,10 @@
-#globaldriver amdgpu
 miner 2328dc claymore
 miner 1a3064 claymore
 maxgputemp 90
 stratumproxy enabled
 globalpowertune 5
 cor 1a3064 1150 1150 1150 1150 1150 1150
-#globalcore 1150
-#mem 2328dc 1950 1950 1950 1950 1950
+cor 2328dc 1100 1100 1100 1100 1100
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
@@ -29,14 +27,6 @@ claymore=poolpass2 x
 #claymore-zcash=poolpass1 x
 #claymore-zcash=poolpass2 x
 #
-#sgminer-gm-xmr=proxywallet ultralord 
-#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
-#sgminer-gm-xmr=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
-#sgminer-gm-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
-#sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
-#sgminer-gm-xmr=poolpass1 x
-#sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 custompanel hybrid007007
