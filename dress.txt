@@ -1,9 +1,8 @@
 BTC Mining - 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
-BTC Coinbase - 1ALVyVuWYABtWiwPBo5eT1NAjG95CdB6v5
-BTC Copay - 1PPuAtj65JEDnMXHDG1WZGYJQvb1e8a43Y
 BTC Donation Address - 16ysB2f6pTdJJTasL8rzzpYW9fcBavzd9H
 BTC Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 BTC Trezor - 1GjEwh4e89yXFRqkdwCQ1Bbn3pgBLaC9NV
+BTC Polo - 1LSEq9wcQR4b6H851hQXcihzimiddv3z6M
 ----------------------------------------------------------------
 ETH - 0x75B78C52b3E6858B18937c00B947F2b14B5A62C3
 ETH Coinbase - 0xA7199a7b8D96C3fe8b1b56fC4784e1d0362951aE
