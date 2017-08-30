@@ -1,12 +1,10 @@
-miner 2328dc claymore
 miner 1a3064 claymore
+miner 2328dc sgminer-gm
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 5
 globalcore 1200
-#cor 1a3064 1150 1150 1150 1150 1150 1150
-#cor 2328dc 1150 1150 1150 1150 1150
-#mem 2328dc 1950 1950 1950 1950 1950
+mem 2328dc 1950
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
@@ -22,11 +20,14 @@ claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
 #claymore=proxypool2 eth-us-west1.nanopool.org:9999
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
-#claymore=proxywallet ultralord
-#claymore=proxypool1 us-east.ethash-hub.miningpoolhub.com:20585
-#claymore=proxypool2 europe.ethash-hub.miningpoolhub.com:20585
 claymore=poolpass1 x
 claymore=poolpass2 x
+#
+sgminer-gm=proxypool1 us1.ethermine.org:4444
+sgminer-gm=proxypool2 us2.ethermine.org:4444
+sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+sgminer-gm=poolpass1 x
+sgminer-gm=poolpass2 x
 #
 #claymore-zcash=proxywallet t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2
 #claymore-zcash=proxypool1 ssl://us1-zcash.flypool.org:3443
@@ -34,14 +35,14 @@ claymore=poolpass2 x
 #claymore-zcash=poolpass1 x
 #claymore-zcash=poolpass2 x
 #
-sgminer-gm-xmr=proxywallet ultralord 
-sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
+#sgminer-gm-xmr=proxywallet ultralord 
+#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+#sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
 #sgminer-gm-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 #sgminer-gm-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
 #sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
-sgminer-gm-xmr=poolpass1 x
-sgminer-gm-xmr=poolpass2 x
+#sgminer-gm-xmr=poolpass1 x
+#sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 custompanel hybrid007007
