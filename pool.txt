@@ -3,7 +3,7 @@ miner 2328dc claymore
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 5
-globalcore 1200
+globalcore 1150
 mem 1a3064 2150 2150 2150 2150 2150 2150
 #mem 2328dc 1950
 ###
