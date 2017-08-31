@@ -3,7 +3,7 @@ miner 2328dc sgminer-gm-xmr
 maxgputemp 85
 stratumproxy enabled
 globalpowertune 4
-globalcore 1150
+globalcore 1200
 mem 2328dc 1950 2000 1950 1950
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
