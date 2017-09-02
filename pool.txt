@@ -4,7 +4,7 @@ maxgputemp 85
 stratumproxy enabled
 globalpowertune 4
 #globalcore 1200
-#mem 2328dc 1950 2000 2050 2050
+mem 2328dc 2050 2050 2050 2050 2050 2050
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
