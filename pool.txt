@@ -5,7 +5,7 @@ globalcore 1200
 miner 1a3064 sgminer-gm-xmr
 pwr 1a3064 4 4 4 4 4 4
 #
-miner 2328dc sgminer-gm-xmr
+miner 2328dc claymore
 pwr 2328dc 4 4 4 4 5 4
 mem 2328dc 2050 2000 2050 2050 2000 2050
 ###
