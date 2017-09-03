@@ -1,10 +1,10 @@
 maxgputemp 85
 stratumproxy enabled
 #
-miner 1a3064 claymore
+miner 1a3064 sgminer-gm-xmr
 #pwr 1a3064 3 3 3 3 3 3
 #xmr settings
-cor 1a3064 1150 1150 1150 1150 1150 1150
+cor 1a3064 1200 1200 1200 1200 1200 1200
 pwr 1a3064 4 4 4 4 4 4
 #
 miner 2328dc sgminer-gm-xmr
