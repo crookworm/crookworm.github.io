@@ -1,12 +1,12 @@
 maxgputemp 85
 stratumproxy enabled
-globalcore 1150
+#globalcore 1150
 #
 miner 1a3064 sgminer-gm-xmr
 pwr 1a3064 4 4 4 4 4 4
 #
 miner 2328dc claymore
-pwr 2328dc 5 5 5 5 5 5
+pwr 2328dc 4 4 4 4 4 4
 mem 2328dc 2050 2000 2050 2050 2000 2050
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
