@@ -4,7 +4,7 @@ stratumproxy enabled
 miner 1a3064 claymore
 #pwr 1a3064 3 3 3 3 3 3
 #xmr settings
-#cor 1a3064 1200 1200 1200 1200 1200 1200
+cor 1a3064 1200 1200 1200 1200 1200 1200
 pwr 1a3064 4 4 4 4 4 4
 #
 miner 2328dc sgminer-gm-xmr
