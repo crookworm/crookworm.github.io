@@ -1,6 +1,6 @@
 maxgputemp 85
 stratumproxy enabled
-globalcore 1200
+globalcore 1150
 #
 miner 1a3064 sgminer-gm-xmr
 pwr 1a3064 4 4 4 4 4 4
