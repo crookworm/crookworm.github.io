@@ -18,7 +18,7 @@ cor 2328dc 1200 1200 1200 1200 1200 1200
 mem 2328dc 2050 2000 2050 2050 2000 2050
 #
 miner 4f36b8 sgminer-gm-xmr
-pwr 4f36b8 4 4 4 4
+pwr 4f36b8 3 3 3 3
 mem 4f36b8 2000 2000 2000 2000
 ###
 #claymore=proxywallet 1NBZiRqaFKdjFXz3jcHj8N2SJ1mx89G36f
