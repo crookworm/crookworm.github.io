@@ -1,4 +1,3 @@
-lockscreen enabled
 maxgputemp 85
 stratumproxy enabled
 flags --cl-global-work 8192 --farm-recheck 200
