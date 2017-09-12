@@ -27,11 +27,11 @@ vlt 4f36b8 900 900 900 900
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 #claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
 #claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
-###
+#######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
 #claymore=proxypool2 etc-us-west1.nanopool.org:19999
-###
+#######################################################
 claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
 claymore=proxypool1 eth-us-east1.nanopool.org:9999
 claymore=proxypool2 eth-us-west1.nanopool.org:9999
@@ -39,7 +39,7 @@ claymore=proxypool2 eth-us-west1.nanopool.org:9999
 #claymore=proxypool2 us2.ethermine.org:4444
 claymore=poolpass1 x
 claymore=poolpass2 x
-#
+#######################################################
 sgminer-gm-xmr=proxywallet ultralord 
 sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
 sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
@@ -48,19 +48,7 @@ sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid007007
-
-# ethOS Pool: ethosdistro.com/pool
-#
-# QUICK START GUIDE: ethosdistro.com/kb/#quick-start-guide
-#
-#
-# Read the ethOS knowledge base, a useful guide to getting set up: ethosdistro.com/kb
-# Read the ethOS changelog for version information and latest changes: ethosdistro.com/changelog
-#
-# NOTE: Everything with a hashtag/poundsign is a comment, and is ignored by all scripts.
-# NOTE: There is no email or skype support for ethOS. Please see the 'Getting Support' section of the ethOS knowledge base.
-# WARNING: Using apt-get to upgrade, update, and/or install packages is unsupported and will likely break ethOS.
-#
+#######################################################
 #
 # GLOBAL CONFIG SETTINGS THAT APPLY TO ALL RIGS, ALSO WORKS IN SINGLE RIG MODE
 # SAMPLE FORMAT: 
@@ -210,22 +198,3 @@ custompanel hybrid007007
 # sgminer-gm=proxywallet 0x0bdC4F12fB57d3acA9C3cF72B7AA2789A20d27f2
 # sgminer-gm=poolpass1 x
 # sgminer-gm=poolpass2 x
-#
-# ------------------------------------------------------
-#
-#
-# REMOTE REBOOT NOTES
-#
-# You are able to reboot remotely. Start with "1" (no quotes) to reboot a rig.
-# Then, if you want to reboot again, increment it to 2, then 3, then 4, etc etc (never skip any numbers).
-#
-#
-# SAMPLE XMR CONFIG (note: the wallet and payment id is long, there are no line breaks)
-# -------------------------------------------------------
-# globalminer sgminer-gm-xmr
-# sgminer-gm-xmr=proxypool1 xmr-usa.dwarfpool.com:8100 
-# sgminer-gm-xmr=proxypool2 xmr-eu.dwarfpool.com:8050 
-# sgminer-gm-xmr=proxywallet 47sghzufGhJJDQEbScMCwVBimTuq6L5JiRixD8VeGbpjCTA12noXmi4ZyBZLc99e66NtnKff34fHsGRoyZk3ES1s1V4QVcB.1025069329a4ae653c8a2bcde9302ab0eedee29d0e9ff2a144cea5951a47f81c
-# sgminer-gm-xmr=poolpass1 x
-# sgminer-gm-xmr=poolpass2 x
-# ---------------------------------------------------------
