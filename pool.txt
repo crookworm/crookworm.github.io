@@ -21,7 +21,7 @@ mem 2328dc 2000 2000 2000 2000 2000 2000
 miner 4f36b8 claymore
 pwr 4f36b8 2 2 2 2
 cor 4f36b8 1200 1200 1200 1200
-mem 4f36b8 2000 2000 2000 2000
+mem 4f36b8 2100 2100 2000 2000
 vlt 4f36b8 900 900 900 900
 #######################################################
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
@@ -46,7 +46,7 @@ sgminer-gm-xmr=proxypool2 xmr.suprnova.cc:5222
 sgminer-gm-xmr=poolpass1 x
 sgminer-gm-xmr=poolpass2 x
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 65
+globalfan 75
 custompanel hybrid007007
 
 # ethOS Pool: ethosdistro.com/pool
