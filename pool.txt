@@ -1,5 +1,9 @@
+lockscreen enabled
 maxgputemp 85
 stratumproxy enabled
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 75
+custompanel hybrid111111
 #######################################################
 miner 1a3064 sgminer-gm
 #pwr 1a3064 3 3 3 3 3 3
@@ -10,7 +14,7 @@ pwr 1a3064 4 4 4 4 4 4
 miner 2328dc claymore
 #eth settings
 pwr 2328dc 3 3 3 3 3 3
-#mem 2328dc 2000 2000 2000 2000 2000 2000
+mem 2328dc 2000 2000 1900 1900 2000
 #######################################################
 #xmr settings
 #pwr 2328dc 3 3 3 3 3 3
@@ -51,9 +55,6 @@ sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
 sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
 sgminer-gm-xmr=poolpass1 x
 sgminer-gm-xmr=poolpass2 x
-flags --cl-global-work 8192 --farm-recheck 200
-globalfan 75
-custompanel hybrid111111
 #######################################################
 #
 # GLOBAL CONFIG SETTINGS THAT APPLY TO ALL RIGS, ALSO WORKS IN SINGLE RIG MODE
