@@ -1,5 +1,5 @@
 maxgputemp 85
-stratumproxy enabled
+stratumproxy nicehash
 flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid111111
@@ -27,27 +27,30 @@ cor 4f36b8 1200 1200 1200 1200
 mem 4f36b8 2000 2000 2000 2000
 vlt 4f36b8 900 900 900 900
 #######################################################
-#claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
 #claymore=proxypool2 etc-us-west1.nanopool.org:19999
 #######################################################
-sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-sgminer-gm=proxypool1 eth-us-east1.nanopool.org:9999
-sgminer-gm=proxypool2 eth-us-west1.nanopool.org:9999
+sgminer-gm=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+sgminer-gm=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+sgminer-gm=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+#sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#sgminer-gm=proxypool1 eth-us-east1.nanopool.org:9999
+#sgminer-gm=proxypool2 eth-us-west1.nanopool.org:9999
 sgminer-gm=poolpass1 x
 sgminer-gm=poolpass2 x
 #######################################################
-claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-claymore=proxypool1 eth-us-east1.nanopool.org:9999
-claymore=proxypool2 eth-us-west1.nanopool.org:9999
+#claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#claymore=proxypool1 eth-us-east1.nanopool.org:9999
+#claymore=proxypool2 eth-us-west1.nanopool.org:9999
 #claymore=proxypool1 us1.ethermine.org:4444
 #claymore=proxypool2 us2.ethermine.org:4444
-claymore=poolpass1 x
-claymore=poolpass2 x
+#claymore=poolpass1 x
+#claymore=poolpass2 x
 #######################################################
 #sgminer-gm-xmr=proxywallet Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
 #sgminer-gm-xmr=proxypool1 sumo.sumominer.com:4445
