@@ -4,11 +4,11 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid111111
 #######################################################
-miner 1a3064 sgminer-gm-xmr
-pwr 1a3064 3 3 3 3 3 3
+miner 1a3064 claymore
+#pwr 1a3064 3 3 3 3 3 3
 #xmr settings
 cor 1a3064 1200 1200 1200 1200 1200 1200
-#pwr 1a3064 4 4 4 4 4 4
+pwr 1a3064 4 4 4 4 4 4
 #######################################################
 miner 2328dc sgminer-gm-xmr
 #eth settings
