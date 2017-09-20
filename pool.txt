@@ -52,16 +52,16 @@ claymore=proxypool2 eth-us-west1.nanopool.org:9999
 #claymore=poolpass1 x
 #claymore=poolpass2 x
 #######################################################
-sgminer-gm-xmr=proxywallet Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
-sgminer-gm-xmr=proxypool1 sumo.sumominer.com:4445
-sgminer-gm-xmr=proxypool2 pool.sumokoin.com:5555
-sgminer-gm-xmr=poolpass1 x
-sgminer-gm-xmr=poolpass2 x
-#sgminer-gm-xmr=proxywallet ultralord
-#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
+#sgminer-gm-xmr=proxywallet Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
+#sgminer-gm-xmr=proxypool1 sumo.sumominer.com:4445
+#sgminer-gm-xmr=proxypool2 pool.sumokoin.com:5555
 #sgminer-gm-xmr=poolpass1 x
 #sgminer-gm-xmr=poolpass2 x
+sgminer-gm-xmr=proxywallet ultralord
+sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
+sgminer-gm-xmr=poolpass1 x
+sgminer-gm-xmr=poolpass2 x
 #######################################################
 #
 # GLOBAL CONFIG SETTINGS THAT APPLY TO ALL RIGS, ALSO WORKS IN SINGLE RIG MODE
