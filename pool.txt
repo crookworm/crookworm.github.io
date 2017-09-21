@@ -10,7 +10,7 @@ miner 1a3064 claymore
 cor 1a3064 1200 1200 1200 1200 1200 1200
 pwr 1a3064 4 4 4 4 4 4
 #######################################################
-miner 2328dc claymore
+miner 2328dc sgminer-gm
 #eth settings
 pwr 2328dc 3 3 3 3 3 3
 cor 2328dc 1150 1150 1100 1100 1150 1150
