@@ -76,8 +76,8 @@ sgminer-gm-xmr=poolpass2 x
 #sgminer-gm-xmr=poolpass2 x
 #######################################################
 claymore-zcash=proxywallet ultralord
-claymore-zcash=proxypool1 stratum+tcp://btcz.suprnova.cc:5586
-claymore-zcash=proxypool1 stratum+tcp://btcz.suprnova.cc:5586
+claymore-zcash=proxypool1 btcz.suprnova.cc:5586
+claymore-zcash=proxypool1 btcz.suprnova.cc:5586
 #claymore-zcash=proxypool2 stratum+tcp://btcz.suprnova.cc:5586
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
