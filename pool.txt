@@ -82,8 +82,8 @@ claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #######################################################
 optiminer-zcash=proxywallet ultralord
-optiminer-zcash=proxypool1 stratum+tcp://btcz.suprnova.cc:5586
-optiminer-zcash=proxypool1 stratum+tcp://btcz.suprnova.cc:5586
+optiminer-zcash=proxypool1 btcz.suprnova.cc:5586
+optiminer-zcash=proxypool1 btcz.suprnova.cc:5586
 #optiminer-zcash=proxypool2 mining.miningspeed.com:3072
 optiminer-zcash=poolpass1 x
 optiminer-zcash=poolpass2 x
