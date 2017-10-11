@@ -4,7 +4,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid111111
 #######################################################
-miner 1a3064 optiminer-zcash
+miner 1a3064 claymore-zcash
 pwr 1a3064 3 3 3 3 3 3
 #cor 1a3064 1200 1200 1200 1200 1200 1200
 cor 1a3064 1150 1150 1150 1150 1150 1150
