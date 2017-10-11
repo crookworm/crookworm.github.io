@@ -4,11 +4,11 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid111111
 #######################################################
-miner 1a3064 sgminer-gm-xmr
+miner 1a3064 claymore-zcash
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2150 2100 2050 2100 2080
-vlt 1a3064 825 825 850 950 850 875
+#vlt 1a3064 825 825 850 950 850 875
 #######################################################
 #miner 2328dc sgminer-gm
 #eth settings
@@ -71,6 +71,12 @@ sgminer-gm-xmr=poolpass2 x
 #sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
 #sgminer-gm-xmr=poolpass1 x
 #sgminer-gm-xmr=poolpass2 x
+#######################################################
+claymore-zcash=proxywallet ultralord
+claymore-zcash=proxypool1 stratum+tcp://btcz.suprnova.cc:5586
+claymore-zcash=proxypool2 stratum+tcp://btcz.suprnova.cc:5586
+claymore-zcash=poolpass1 x
+claymore-zcash=poolpass2 x
 #######################################################
 #
 # GLOBAL CONFIG SETTINGS THAT APPLY TO ALL RIGS, ALSO WORKS IN SINGLE RIG MODE
