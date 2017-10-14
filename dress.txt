@@ -16,6 +16,9 @@ Polo ZEC - t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2
 ETC - 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 ETC Jaxx - 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
 ----------------------------------------------------------------
+LTC Trezor - LTbehi63tzi5t9GijwSD8SUYTceciZHVf3
+
+----------------------------------------------------------------
 Polo XMR Deposit Address - 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS653RdRsw5U8veU2ag
 
 MyMonero Deposit - 47g24iCRvthX8KCqsrygJHQXZmUAJcPWL9tKD3yL7B76EQMnEvtgZaufrjqi2cy9V41iJa7dx2e7fQ1WPs6Ju99US9p48hb
