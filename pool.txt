@@ -4,7 +4,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid111111
 #######################################################
-miner 1a3064 sgminer-gm
+miner 1a3064 claymore
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2150 2050 2000 2000 2080
