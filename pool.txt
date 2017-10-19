@@ -31,7 +31,6 @@ pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2000 2000 2000 2000 2000 2000
 vlt 4f36b8 900 900 900 900 900 900
-desktop 4f36b8 disabled
 #######################################################
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 #claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
