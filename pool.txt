@@ -4,6 +4,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 globalfan 75
 custompanel hybrid111111
 #######################################################
+#Sapphire Rig
 miner 1a3064 claymore
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
@@ -24,11 +25,12 @@ vlt 2328dc 900 900 900 900 900 900
 #mem 2328dc 2000 2000 2000 2000 2000 2000
 #vlt 2328dc 900 900 900 900 900 900
 #######################################################
+#ASUS Rig
 miner 4f36b8 claymore
-pwr 4f36b8 2 2 2 2
-cor 4f36b8 1150 1150 1150 1150
-mem 4f36b8 2000 2000 2000 2000
-vlt 4f36b8 900 900 900 900
+pwr 4f36b8 2 2 2 2 2 2
+cor 4f36b8 1150 1150 1150 1150 1150 1150
+mem 4f36b8 2000 2000 2000 2000 2000 2000
+vlt 4f36b8 900 900 900 900 900 900
 #######################################################
 #claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 #claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
