@@ -1,7 +1,7 @@
 maxgputemp 85
 stratumproxy enabled
 flags --cl-global-work 8192 --farm-recheck 200
-globalfan 75
+globalfan 85
 custompanel hybrid111111
 #######################################################
 #Sapphire Rig
