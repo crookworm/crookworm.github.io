@@ -17,7 +17,6 @@ ETC - 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 ETC Jaxx - 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
 ----------------------------------------------------------------
 LTC Trezor - LTbehi63tzi5t9GijwSD8SUYTceciZHVf3
-
 ----------------------------------------------------------------
 Polo XMR Deposit Address - 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS653RdRsw5U8veU2ag
 
@@ -42,3 +41,6 @@ BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
 ---------------------------------------------------------------
 
 BCH - 1EwFKn4oonruhH9hcaxVvMZ5sRLXanC664
+---------------------------------------------------------------
+
+Sumocoin - Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
