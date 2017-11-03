@@ -1,0 +1,65 @@
+maxgputemp 85
+stratumproxy enabled
+flags --cl-global-work 8192 --farm-recheck 200
+globalfan 85
+custompanel hybrid111111
+#######################################################
+#######################################################
+#claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+#######################################################
+#claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
+#claymore=proxypool1 etc-us-east1.nanopool.org:19999
+#claymore=proxypool2 etc-us-west1.nanopool.org:19999
+#######################################################
+#sgminer-gm=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+#sgminer-gm=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+#sgminer-gm=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#sgminer-gm=proxypool1 eth-us-east1.nanopool.org:9999
+#sgminer-gm=proxypool2 eth-us-west1.nanopool.org:9999
+sgminer-gm=proxypool1 us1.ethermine.org:4444
+sgminer-gm=proxypool2 us2.ethermine.org:4444
+sgminer-gm=poolpass1 x
+sgminer-gm=poolpass2 x
+#######################################################
+claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#claymore=proxypool1 eth-us-east1.nanopool.org:9999
+#claymore=proxypool2 eth-us-west1.nanopool.org:9999
+claymore=proxypool1 us1.ethermine.org:4444
+claymore=proxypool2 us2.ethermine.org:4444
+claymore=poolpass1 x
+claymore=poolpass2 x
+#######################################################
+#sgminer-gm-xmr=proxywallet Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
+#sgminer-gm-xmr=proxypool1 sumo.sumominer.com:4445
+#sgminer-gm-xmr=proxypool2 pool.sumokoin.com:5555
+#sgminer-gm-xmr=poolpass1 x
+#sgminer-gm-xmr=poolpass2 x
+sgminer-gm-xmr=proxywallet ultralord
+sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
+sgminer-gm-xmr=poolpass1 x
+sgminer-gm-xmr=poolpass2 x
+#######################################################
+#sgminer-gm-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+#sgminer-gm-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
+#sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
+#sgminer-gm-xmr=poolpass1 x
+#sgminer-gm-xmr=poolpass2 x
+#######################################################
+#claymore-zcash=proxywallet ultralord
+#claymore-zcash=proxypool1 btcz.suprnova.cc:5586
+#claymore-zcash=proxypool1 btcz.suprnova.cc:5586
+#claymore-zcash=proxypool2 stratum+tcp://btcz.suprnova.cc:5586
+#claymore-zcash=poolpass1 x
+#claymore-zcash=poolpass2 x
+#######################################################
+#optiminer-zcash=proxywallet ultralord
+#optiminer-zcash=proxypool1 btcz.suprnova.cc:5586
+#optiminer-zcash=proxypool1 btcz.suprnova.cc:5586
+#optiminer-zcash=proxypool2 mining.miningspeed.com:3072
+#optiminer-zcash=poolpass1 x
+#optiminer-zcash=poolpass2 x
+#######################################################
