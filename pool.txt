@@ -5,7 +5,7 @@ globalfan 85
 custompanel hybrid111111
 #######################################################
 #Sapphire Rig
-miner 1a3064 claymore
+miner 1a3064 claymore-xmr
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2150 2050 2050 2050 2050
@@ -97,3 +97,8 @@ sgminer-gm-xmr=poolpass2 x
 #optiminer-zcash=poolpass1 x
 #optiminer-zcash=poolpass2 x
 #######################################################
+claymore-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
+claymore-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
+claymore-xmr=poolpass1 x
+claymore-xmr=poolpass2 x
