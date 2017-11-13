@@ -11,20 +11,6 @@ cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2150 2050 2050 2050 2050
 vlt 1a3064 825 825 850 850 875 875
 #######################################################
-#eth settings
-miner 2328dc claymore
-pwr 2328dc 3 2 2 2 2 2
-cor 2328dc 1150 1150 1150 1150 1150 1150
-mem 2328dc 2000 2050 2050 2050 2050 2050
-vlt 2328dc 900 880 880 880 880 880
-#######################################################
-#xmr settings
-#miner 2328dc sgminer-gm-xmr
-#pwr 2328dc 3 3 3 3 3 3
-#cor 2328dc 1200 1200 1200 1200 1200 1200
-#mem 2328dc 2000 2000 2000 2000 2000 2000
-#vlt 2328dc 900 900 900 900 900 900
-#######################################################
 #ASUS Rig
 miner 4f36b8 claymore-zcash
 pwr 4f36b8 2 2 2 2 2 2
@@ -39,20 +25,15 @@ cor ef105b 1150 1150
 mem ef105b 2050 2050
 vlt ef105b 900 900
 #######################################################
-#claymore=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+#Dell Rig
+miner 74577c ewbf-zcash
+mem 74577c +400
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
 #claymore=proxypool2 etc-us-west1.nanopool.org:19999
 #######################################################
-#sgminer-gm=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-#sgminer-gm=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-#sgminer-gm=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 sgminer-gm=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-#sgminer-gm=proxypool1 eth-us-east1.nanopool.org:9999
-#sgminer-gm=proxypool2 eth-us-west1.nanopool.org:9999
 sgminer-gm=proxypool1 us1.ethermine.org:4444
 sgminer-gm=proxypool2 us2.ethermine.org:4444
 sgminer-gm=poolpass1 x
@@ -66,35 +47,17 @@ claymore=proxypool2 us2.ethermine.org:4444
 claymore=poolpass1 x
 claymore=poolpass2 x
 #######################################################
-#sgminer-gm-xmr=proxywallet Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
-#sgminer-gm-xmr=proxypool1 sumo.sumominer.com:4445
-#sgminer-gm-xmr=proxypool2 pool.sumokoin.com:5555
-#sgminer-gm-xmr=poolpass1 x
-#sgminer-gm-xmr=poolpass2 x
 claymore-xmr=proxywallet ultralord
 claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
 claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
 claymore-xmr=poolpass1 x
 claymore-xmr=poolpass2 x
 #######################################################
-#sgminer-gm-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-#sgminer-gm-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
-#sgminer-gm-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
-#sgminer-gm-xmr=poolpass1 x
-#sgminer-gm-xmr=poolpass2 x
-#######################################################
 claymore-zcash=proxywallet ultralord
 claymore-zcash=proxypool1 btg.suprnova.cc:8816
 claymore-zcash=proxypool2 btcz.suprnova.cc:5586
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
-#######################################################
-#optiminer-zcash=proxywallet ultralord
-#optiminer-zcash=proxypool1 btcz.suprnova.cc:5586
-#optiminer-zcash=proxypool1 btcz.suprnova.cc:5586
-#optiminer-zcash=proxypool2 mining.miningspeed.com:3072
-#optiminer-zcash=poolpass1 x
-#optiminer-zcash=poolpass2 x
 #######################################################
 #claymore-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 #claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
