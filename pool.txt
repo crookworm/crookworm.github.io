@@ -50,11 +50,11 @@ claymore=proxypool2 us2.ethermine.org:4444
 claymore=poolpass1 x
 claymore=poolpass2 x
 #######################################################
-#claymore-xmr=proxywallet ultralord
-#claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
-#claymore-xmr=poolpass1 x
-#claymore-xmr=poolpass2 x
+claymore-xmr=proxywallet ultralord
+claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
+claymore-xmr=poolpass1 x
+claymore-xmr=poolpass2 x
 #######################################################
 claymore-zcash=proxywallet ultralord
 claymore-zcash=proxypool1 btg.suprnova.cc:8816
@@ -62,11 +62,11 @@ claymore-zcash=proxypool2 btcz.suprnova.cc:5586
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #######################################################
-claymore-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
-claymore-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
-claymore-xmr=poolpass1 x
-claymore-xmr=poolpass2 x
+#claymore-xmr=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+#claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
+#claymore-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
+#claymore-xmr=poolpass1 x
+#claymore-xmr=poolpass2 x
 #######################################################
 #claymore-xmr=proxywallet ultralord
 #claymore-xmr=proxypool1 etn.suprnova.cc:8875
