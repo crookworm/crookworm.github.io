@@ -38,12 +38,14 @@ Cryptopia DNR - DLdkay48eEE1iZuAarCmybDhGy6nbtNwQ3
 BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
 
 ---------------------------------------------------------------
-
 Bitcoin Cash - 16ALsQLvg1ujRqENF7uAo8MMqHZvh59hkW
 
 New BCC - 18zHQ4L1B6k1mzU8gUix8xh3MunHEXU4tZ
 ---------------------------------------------------------------
-
+Bitcoin Gold - GZoDiKd3w4qmQnLaBDkBSks74TscFsMvjf
+---------------------------------------------------------------
+Expanse - 0x025d90F71E98D7a5472F26f26091f4875280C2fc
+---------------------------------------------------------------
 Sumocoin - Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
 ---------------------------------------------------------------
 Metaverse - MQgcNLAumq1EuCHbkABAXdePvv2c9RR6i6
