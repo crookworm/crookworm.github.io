@@ -46,6 +46,8 @@ Bitcoin Gold - GZoDiKd3w4qmQnLaBDkBSks74TscFsMvjf
 ---------------------------------------------------------------
 Expanse - 0x025d90F71E98D7a5472F26f26091f4875280C2fc
 ---------------------------------------------------------------
+Ubiq - 0x04CAB19B3ad14541d550B4A79B55A73Eaac8ec38
+---------------------------------------------------------------
 Sumocoin - Sumoo27MKAN8tRhdbazzG1XmEXzPMrBsu8MwoeMkXwwv9BkbMg9vrnWTtKuasJAvRDCzKxq6BJMyP4poVsGFc6vtS72dxYW9cFY
 ---------------------------------------------------------------
 Metaverse - MQgcNLAumq1EuCHbkABAXdePvv2c9RR6i6
