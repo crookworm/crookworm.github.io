@@ -41,6 +41,8 @@ BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
 Bitcoin Cash - 16ALsQLvg1ujRqENF7uAo8MMqHZvh59hkW
 
 New BCC - 18zHQ4L1B6k1mzU8gUix8xh3MunHEXU4tZ
+
+Buttcash - CThMtK4bhXwDA8YaPEEnUSVbk2FHpEqbRp
 ---------------------------------------------------------------
 Bitcoin Gold - GZoDiKd3w4qmQnLaBDkBSks74TscFsMvjf
 ---------------------------------------------------------------
