@@ -32,6 +32,12 @@ miner 5fa1ee claymore-xmr
 miner 74577c ewbf-zcash
 mem 74577c +400
 #######################################################
+#ASUS Server Board
+miner 7520bd ewbf-zcash
+#######################################################
+#Core2Duo
+miner c5f656 ewbf-zcash
+#######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
 #claymore=proxypool2 etc-us-west1.nanopool.org:19999
@@ -82,3 +88,10 @@ ewbf-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
 ewbf-zcash=proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
 ewbf-zcash=poolpass1 x
 ewbf-zcash=poolpass2 x
+#######################################################
+ccminer=flags -cryptonight
+ccminer=proxywallet ultralord
+ccminer=proxypool1 etn.suprnova.cc:8875
+ccminer=proxypool2 us-east.cryptonight-hub.miningpoolhub.com:20580
+ccminer=poolpass1 x
+ccminer=poolpass2 x
