@@ -80,12 +80,12 @@ claymore-xmr=poolpass2 x
 #claymore-xmr=poolpass1 x
 #claymore-xmr=poolpass2 x
 #######################################################
-#ewbf-zcash=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-#ewbf-zcash=proxypool1 equihash.usa.nicehash.com:3357
-#ewbf-zcash=proxypool2 equihash.eu.nicehash.com:3357
-ewbf-zcash=proxywallet ultralord
-ewbf-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
-ewbf-zcash=proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
+ewbf-zcash=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+ewbf-zcash=proxypool1 equihash.usa.nicehash.com:3357
+ewbf-zcash=proxypool2 equihash.eu.nicehash.com:3357
+#ewbf-zcash=proxywallet ultralord
+#ewbf-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
+#ewbf-zcash=proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
 ewbf-zcash=poolpass1 x
 ewbf-zcash=poolpass2 x
 #######################################################
