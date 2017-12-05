@@ -30,7 +30,7 @@ miner 5fa1ee claymore-xmr
 #######################################################
 #Dell Rig
 miner 74577c ewbf-zcash
-mem 74577c +400
+#mem 74577c +400
 #######################################################
 #ASUS Server Board
 miner 7520bd ewbf-zcash
