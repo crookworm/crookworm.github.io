@@ -37,6 +37,7 @@ miner 7520bd ewbf-zcash
 #######################################################
 #Core2Duo
 miner c5f656 ewbf-zcash
+pwr c5f656 200
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
 #claymore=proxypool1 etc-us-east1.nanopool.org:19999
