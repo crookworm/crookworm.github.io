@@ -36,7 +36,7 @@ miner 74577c ewbf-zcash
 miner 7520bd ewbf-zcash
 #######################################################
 #Core2Duo
-miner c5f656 ewbf-zcash
+miner c5f656 ccminer
 #pwr c5f656 200
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
@@ -90,9 +90,10 @@ ewbf-zcash=proxypool2 equihash.eu.nicehash.com:3357
 ewbf-zcash=poolpass1 x
 ewbf-zcash=poolpass2 x
 #######################################################
-ccminer=flags -cryptonight
+ccminer=flags -lyra2v2
 ccminer=proxywallet ultralord
-ccminer=proxypool1 etn.suprnova.cc:8875
-ccminer=proxypool2 us-east.cryptonight-hub.miningpoolhub.com:20580
+ccminer=proxypool1 stratum+tcp://stak.suprnova.cc:7706
+ccminer=proxypool2 stratum+tcp://mona.suprnova.cc:2995
 ccminer=poolpass1 x
 ccminer=poolpass2 x
+#######################################################
