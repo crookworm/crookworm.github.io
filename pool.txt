@@ -91,12 +91,12 @@ ewbf-zcash=poolpass1 x
 ewbf-zcash=poolpass2 x
 #######################################################
 ccminer=flags -a lyra2rev2
-#ccminer=proxywallet ultralord
-#ccminer=proxypool1 stak.suprnova.cc:7706
-#ccminer=proxypool2 mona.suprnova.cc:2995
-ccminer=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-ccminer=proxypool1 lyra2rev2.usa.nicehash.com:3347
-ccminer=proxypool2 lyra2rev2.eu.nicehash.com:3347
+ccminer=proxywallet ultralord
+ccminer=proxypool1 stak.suprnova.cc:7706
+ccminer=proxypool2 mona.suprnova.cc:2995
+#ccminer=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+#ccminer=proxypool1 lyra2rev2.usa.nicehash.com:3347
+#ccminer=proxypool2 lyra2rev2.eu.nicehash.com:3347
 ccminer=poolpass1 x
 ccminer=poolpass2 x
 #######################################################
