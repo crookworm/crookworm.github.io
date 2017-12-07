@@ -5,14 +5,14 @@ globalfan 85
 custompanel hybrid111111
 #######################################################
 #Sapphire Rig
-miner 1a3064 claymore
+miner 1a3064 claymore-xmr
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2050 2050 2050 2050 2050
 vlt 1a3064 825 825 850 850 875 875
 #######################################################
 #ASUS Rig
-miner 4f36b8 claymore
+miner 4f36b8 claymore-xmr
 pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2000 2000 2000 2000 2000 2000
