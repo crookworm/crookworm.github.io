@@ -18,6 +18,7 @@ pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2000 2000 2000 2000 2000 2000
 vlt 4f36b8 880 880 880 880 880 880
+flg 1a3064 -mport 0
 #######################################################
 #H270 Rig
 miner ef105b claymore
@@ -28,6 +29,7 @@ vlt ef105b 900 900
 #######################################################
 #ASUS B250 Mining
 miner 5fa1ee claymore-xmr
+miner 5f
 #######################################################
 #Dell Rig
 miner 74577c ewbf-zcash
@@ -93,11 +95,8 @@ ewbf-zcash=poolpass2 x
 #######################################################
 ccminer=flags -a lyra2rev2
 ccminer=proxywallet ultralord
-ccminer=proxypool1 stak.suprnova.cc:7706
+ccminer=proxypool1 hub.miningpoolhub.com:17018
 ccminer=proxypool2 mona.suprnova.cc:2995
-#ccminer=proxywallet 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
-#ccminer=proxypool1 lyra2rev2.usa.nicehash.com:3347
-#ccminer=proxypool2 lyra2rev2.eu.nicehash.com:3347
 ccminer=poolpass1 x
 ccminer=poolpass2 x
 #######################################################
