@@ -66,6 +66,12 @@ claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
 claymore-xmr=poolpass1 x
 claymore-xmr=poolpass2 x
 #######################################################
+sgminer-gm-xmr=proxywallet ultralord
+sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
+sgminer-gm-xmr=poolpass1 x
+sgminer-gm-xmr=poolpass2 x
+#######################################################
 claymore-zcash=proxywallet ultralord
 claymore-zcash=proxypool1 btg.suprnova.cc:8816
 claymore-zcash=proxypool2 btcz.suprnova.cc:5586
