@@ -72,8 +72,8 @@ claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #######################################################
 claymore-xmr=proxywallet etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948
-claymore-xmr=proxypool1 stratum+ssl://etn-us-east1.nanopool.org:13433
-claymore-xmr=proxypool2 stratum+ssl://etn-us-west1.nanopool.org:13433
+claymore-xmr=proxypool1 ssl://etn-us-east1.nanopool.org:13433
+claymore-xmr=proxypool2 ssl://etn-us-west1.nanopool.org:13433
 claymore-xmr=poolpass1 x
 claymore-xmr=poolpass2 x
 #######################################################
