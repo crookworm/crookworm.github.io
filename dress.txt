@@ -39,12 +39,12 @@ BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
 
 ---------------------------------------------------------------
 Bitcoin Cash - 16ALsQLvg1ujRqENF7uAo8MMqHZvh59hkW
-
 New BCC - 1AK96mDVXrKTNbcABsJHsaVRuNqudcgkXj
-
 Buttcash - CThMtK4bhXwDA8YaPEEnUSVbk2FHpEqbRp
+Bitcoin Cash Trezor - 12yjnoTcuQTsdRyv1nKr5cm1AYY1jwdB7B
 ---------------------------------------------------------------
-Bitcoin Gold - GZoDiKd3w4qmQnLaBDkBSks74TscFsMvjf
+Bitcoin Gold Ledger - GZoDiKd3w4qmQnLaBDkBSks74TscFsMvjf
+Bitcoin Gold Trezor - AHNxZYiEoRUB34ewtCqvN6UgXiXirtZNKu
 ---------------------------------------------------------------
 Expanse - 0x025d90F71E98D7a5472F26f26091f4875280C2fc
 ---------------------------------------------------------------
