@@ -28,11 +28,11 @@ mem ef105b 2050 2050
 vlt ef105b 900 900
 #######################################################
 #Dell Rig
-miner 74577c ccminer
+miner 74577c ewbf-zcash
 #mem 74577c +400
 #######################################################
 #Core2Duo
-miner c5f656 ccminer
+miner c5f656 ewbf-zcash
 pwr c5f656 150 150 150 150
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
@@ -74,7 +74,7 @@ claymore-xmr=poolpass2 x
 #######################################################
 ewbf-zcash=proxywallet ultralord
 ewbf-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
-ewbf-zcash=proxypool2 us-east.equihash-hub.miningpoolhub.com:17023
+ewbf-zcash=proxypool2 europe.equihash-hub.miningpoolhub.com:17023
 ewbf-zcash=poolpass1 x
 ewbf-zcash=poolpass2 x
 #######################################################
