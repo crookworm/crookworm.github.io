@@ -2,7 +2,7 @@ BTC Ledger Mining Address - 16ysB2f6pTdJJTasL8rzzpYW9fcBavzd9H
 BTC Old Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 BTC New Nicehash - 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 BTC Trezor - 1GjEwh4e89yXFRqkdwCQ1Bbn3pgBLaC9NV
-BTC Polo - 1LSEq9wcQR4b6H851hQXcihzimiddv3z6M
+BTC Ledger Stick - 1HhqJrV4b1KE5yKFxWMCTxMZJJzBEqpCoy
 ----------------------------------------------------------------
 ETH - 0x75B78C52b3E6858B18937c00B947F2b14B5A62C3
 ETH Coinbase - 0x23557cFa8336CcB5d70a1A602DE9f5A7DD2BaD4f
@@ -52,6 +52,7 @@ New BCC - 1AK96mDVXrKTNbcABsJHsaVRuNqudcgkXj
 Buttcash - CThMtK4bhXwDA8YaPEEnUSVbk2FHpEqbRp
 Trezor Bitcoin Cash - 12yjnoTcuQTsdRyv1nKr5cm1AYY1jwdB7B
 Exodus Bitcoin Cash - 18imfkzS6vppSKMxmtTYe7wzBn1KL6VT78
+Ledger Stick Bitcoin Cash - 1F89vSs57iys1kq1NT3amagzGv2aZeMurE
 ---------------------------------------------------------------
 Bitcoin Gold Segwit Mining Ledger - AG6s56NjdzCbbV3giuF43Cz7CooUweLYjr
 Bitcoin Gold Trezor - AHNxZYiEoRUB34ewtCqvN6UgXiXirtZNKu
