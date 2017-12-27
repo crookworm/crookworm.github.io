@@ -5,7 +5,7 @@ globalfan 85
 custompanel hybrid111111
 #######################################################
 #Sapphire Rig
-miner 1a3064 claymore
+miner 1a3064 claymore-xmr
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2050 2050 2050 2050 2050
@@ -48,11 +48,11 @@ claymore=proxypool2 us2.ethermine.org:4444
 claymore=poolpass1 x
 claymore=poolpass2 x
 #######################################################
-#claymore-xmr=proxywallet ultralord
-#claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
-#claymore-xmr=poolpass1 x
-#claymore-xmr=poolpass2 x
+claymore-xmr=proxywallet ultralord
+claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
+claymore-xmr=poolpass1 x
+claymore-xmr=poolpass2 x
 #######################################################
 sgminer-gm-xmr=proxywallet ultralord
 sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
@@ -66,11 +66,11 @@ claymore-zcash=proxypool2 btcz.suprnova.cc:5586
 claymore-zcash=poolpass1 x
 claymore-zcash=poolpass2 x
 #######################################################
-claymore-xmr=proxywallet etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948
-claymore-xmr=proxypool1 etn-us-east1.nanopool.org:13333
-claymore-xmr=proxypool2 etn-us-west1.nanopool.org:13333
-claymore-xmr=poolpass1 x
-claymore-xmr=poolpass2 x
+#claymore-xmr=proxywallet etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948
+#claymore-xmr=proxypool1 etn-us-east1.nanopool.org:13333
+#claymore-xmr=proxypool2 etn-us-west1.nanopool.org:13333
+#claymore-xmr=poolpass1 x
+#claymore-xmr=poolpass2 x
 #######################################################
 ewbf-zcash=proxywallet ultralord
 ewbf-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
