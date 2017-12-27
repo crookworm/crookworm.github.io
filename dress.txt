@@ -3,6 +3,7 @@ BTC Old Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 BTC New Nicehash - 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 BTC Trezor - 1GjEwh4e89yXFRqkdwCQ1Bbn3pgBLaC9NV
 BTC Ledger Stick - 1HhqJrV4b1KE5yKFxWMCTxMZJJzBEqpCoy
+BTC Ledger Stick Segwit - 34UZVp7RqPZtbgFLNiiRgd1xyqNaMHY5DU
 ----------------------------------------------------------------
 ETH - 0x75B78C52b3E6858B18937c00B947F2b14B5A62C3
 ETH Coinbase - 0x23557cFa8336CcB5d70a1A602DE9f5A7DD2BaD4f
