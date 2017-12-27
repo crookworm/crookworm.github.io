@@ -1,5 +1,6 @@
 BTC Donation Address - 16ysB2f6pTdJJTasL8rzzpYW9fcBavzd9H
-BTC Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+BTC Old Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
+BTC New Nicehash - 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 BTC Trezor - 1GjEwh4e89yXFRqkdwCQ1Bbn3pgBLaC9NV
 BTC Polo - 1LSEq9wcQR4b6H851hQXcihzimiddv3z6M
 ----------------------------------------------------------------
