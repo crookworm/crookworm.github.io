@@ -13,10 +13,12 @@ ZEC - t1ezmF7Sn5gURut8ZDhahHf1NkK5JNXJqiN
 ZEC Trezor - t1XgwDokpZL8cHZp8mMzCjVs1tfkVHSxDLo
 Polo ZEC - t1bPRRdziK6Xn5zVyTjYzUNd1gwXpq3Syx2
 ----------------------------------------------------------------
-ETC - 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
+ETC Ledger - 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
+ETC Trezor - 0x656832837493905c1Cd7318EE9E62ad310F80305
 ETC Jaxx - 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
 ----------------------------------------------------------------
-LTC Trezor - LTbehi63tzi5t9GijwSD8SUYTceciZHVf3
+LTC Trezor Legacy - LTbehi63tzi5t9GijwSD8SUYTceciZHVf3
+LTC Trezor Segwit - MGRp5N2jUwy7HTm9F2KeRBTFZNfKqu1K6r
 LTC Ledger Legacy - LbnmTSseAXAYR3JnxUd1cevtKiehBvudh1
 LTC Ledger Segwit - MP244qAWQfMka5fR9wXc2ScXPRCHGVRUzX
 LTC Exodus - LgfdSdBf18agK3ptZHqwERANSveaenG3xL
