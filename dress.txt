@@ -1,4 +1,4 @@
-BTC Donation Address - 16ysB2f6pTdJJTasL8rzzpYW9fcBavzd9H
+BTC Ledger Mining Address - 16ysB2f6pTdJJTasL8rzzpYW9fcBavzd9H
 BTC Old Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 BTC New Nicehash - 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 BTC Trezor - 1GjEwh4e89yXFRqkdwCQ1Bbn3pgBLaC9NV
@@ -17,6 +17,9 @@ ETC - 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 ETC Jaxx - 0x4196AEc80F42c8CC3DcdE877257f687379E487d8
 ----------------------------------------------------------------
 LTC Trezor - LTbehi63tzi5t9GijwSD8SUYTceciZHVf3
+LTC Ledger Legacy - LbnmTSseAXAYR3JnxUd1cevtKiehBvudh1
+LTC Ledger Segwit - MP244qAWQfMka5fR9wXc2ScXPRCHGVRUzX
+LTC Exodus - LgfdSdBf18agK3ptZHqwERANSveaenG3xL
 ----------------------------------------------------------------
 Polo XMR Deposit Address - 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS653RdRsw5U8veU2ag
 MyMonero Deposit - 47g24iCRvthX8KCqsrygJHQXZmUAJcPWL9tKD3yL7B76EQMnEvtgZaufrjqi2cy9V41iJa7dx2e7fQ1WPs6Ju99US9p48hb
@@ -42,17 +45,18 @@ Cryptopia DNR - DLdkay48eEE1iZuAarCmybDhGy6nbtNwQ3
 BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
 
 ---------------------------------------------------------------
-Bitcoin Cash - 16ALsQLvg1ujRqENF7uAo8MMqHZvh59hkW
+Ledger Bitcoin Cash - 16ALsQLvg1ujRqENF7uAo8MMqHZvh59hkW
 New BCC - 1AK96mDVXrKTNbcABsJHsaVRuNqudcgkXj
 Buttcash - CThMtK4bhXwDA8YaPEEnUSVbk2FHpEqbRp
-Bitcoin Cash Trezor - 12yjnoTcuQTsdRyv1nKr5cm1AYY1jwdB7B
+Trezor Bitcoin Cash - 12yjnoTcuQTsdRyv1nKr5cm1AYY1jwdB7B
+Exodus Bitcoin Cash - 18imfkzS6vppSKMxmtTYe7wzBn1KL6VT78
 ---------------------------------------------------------------
-Bitcoin Gold Ledger - GZoDiKd3w4qmQnLaBDkBSks74TscFsMvjf
+Bitcoin Gold Segwit Mining Ledger - AG6s56NjdzCbbV3giuF43Cz7CooUweLYjr
 Bitcoin Gold Trezor - AHNxZYiEoRUB34ewtCqvN6UgXiXirtZNKu
 ---------------------------------------------------------------
-Expanse - 0x025d90F71E98D7a5472F26f26091f4875280C2fc
+Ledger Expanse - 0x025d90F71E98D7a5472F26f26091f4875280C2fc
 ---------------------------------------------------------------
-Ubiq - 0x04CAB19B3ad14541d550B4A79B55A73Eaac8ec38
+Ledger Ubiq - 0x04CAB19B3ad14541d550B4A79B55A73Eaac8ec38
 ---------------------------------------------------------------
 Ledger Komodo - RSdSNFZcZGDv5ztLoov2GSPjfPW4zeXBFp
 ---------------------------------------------------------------
@@ -69,3 +73,7 @@ Vertcoin - 33T52j4BqZxHaueWq5MawsX4XB5wZ4EZw7
 Musicoin - 0xc0296ff4f6ea4f9146ab935bc8577a12d665e40c
 ---------------------------------------------------------------
 Sigwo - 3PQ9dkMBEw5tk6R5p2FmnLdhWsgwHdKdA6T
+---------------------------------------------------------------
+Ledger Doge - DBwobMXttcYvRxRKti1VU5bfSjGE5PmdTL
+---------------------------------------------------------------
+Ledger NEO - ALicN8vYJdfqJefRZtkmu1W2DHh4BuadB4
