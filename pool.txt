@@ -28,12 +28,12 @@ mem ef105b 2050 2050
 vlt ef105b 900 900
 #######################################################
 #Dell Rig
-miner 74577c ewbf-zcash
+miner 74577c dstm-zcash
 pwr 74577c 150
 #mem 74577c +400
 #######################################################
 #Core2Duo
-miner c5f656 ewbf-zcash
+miner c5f656 dstm-zcash
 pwr c5f656 150 150 150 150
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4b7aa4cac1225a7779b9ab
