@@ -28,7 +28,7 @@ Polo XMR Deposit Address - 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfU
 MyMonero Deposit - 47g24iCRvthX8KCqsrygJHQXZmUAJcPWL9tKD3yL7B76EQMnEvtgZaufrjqi2cy9V41iJa7dx2e7fQ1WPs6Ju99US9p48hb
 XMR - 41fH8A7xVCmMPtVmqRd9DY3E2t4TCoNYe4kWMsy4k9iAVwgQTNP6Qm2EuyzPyu63ez1TcxUVAc1gh8XfqMKEEaw47PFLegR
 ----------------------------------------------------------------
-Bittrex ZCL - t1aDA4FmLQFvcmy6gcbAMkMox9pVj6wdcmn
+Cryptopia ZCL - t1f8BtLwP5E7QXg7baCBt1VPLxQ9ZjiXLiU
 ----------------------------------------------------------------
 Bittrex ZEN - zneqCiiTSCWCTQVcg7VLoLE6mWUaRsdhDzv
 ----------------------------------------------------------------
