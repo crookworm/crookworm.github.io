@@ -46,6 +46,8 @@ claymore=proxypool2 us2.ethermine.org:4444
 claymore=poolpass1 x
 claymore=poolpass2 x
 #######################################################
+#claymore-xmr=proxywallet Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee
+#claymore-xmr=proxypool1 pool.sumokoin.hashvault.pro:5555
 claymore-xmr=proxywallet ultralord
 claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
 claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
