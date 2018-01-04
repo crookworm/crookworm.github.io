@@ -84,3 +84,8 @@ Sigwo - 3PQ9dkMBEw5tk6R5p2FmnLdhWsgwHdKdA6T
 Ledger Doge - DBwobMXttcYvRxRKti1VU5bfSjGE5PmdTL
 ---------------------------------------------------------------
 Ledger NEO - ALicN8vYJdfqJefRZtkmu1W2DHh4BuadB4
+---------------------------------------------------------------
+Ledger Hcash - HRjqjsXnMv2dRaCi3CqpdGYgQz8WW4ncno
+---------------------------------------------------------------
+Ledger ARK - AZifFb3DNgJpHzfNDcPbNtU8ftCxWp8Y96
+---------------------------------------------------------------
