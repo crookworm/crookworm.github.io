@@ -1,4 +1,5 @@
 BTC Ledger Mining Address - 16ysB2f6pTdJJTasL8rzzpYW9fcBavzd9H
+BTC Ledger Segwit - 33X6dJpJTQf11GnXXUQqFq16z2URkamCy3
 BTC Old Nicehash - 32cTwxxEkWKjqQH3yaCU8gRmVTRVLB9sNA
 BTC New Nicehash - 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 BTC Trezor - 1GjEwh4e89yXFRqkdwCQ1Bbn3pgBLaC9NV
