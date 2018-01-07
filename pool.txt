@@ -1,6 +1,5 @@
 maxgputemp 85
 stratumproxy enabled
-#flags --cl-global-work 8192 --farm-recheck 200
 globalfan 85
 custompanel hybrid111111
 #######################################################
@@ -27,6 +26,17 @@ cor ef105b 1150 1150
 mem ef105b 2050 2050
 vlt ef105b 900 900
 #######################################################
+#TB250-BTC
+miner 7eebdc dstm-zcash
+pwr 7eebdc 200
+cor 7eebdc +150
+#######################################################
+#ASUS P10S
+miner 7520bd dstm-zcash
+pwr 7520bd 140 140
+cor 7520bd +150 +150
+mem 7520bd +525 +525
+#######################################################
 #Dell Rig
 miner 74577c dstm-zcash
 pwr 74577c 140
@@ -45,8 +55,6 @@ mem c5f656 +525 +525 +525 +525
 claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
-claymore=poolpass1 x
-claymore=poolpass2 x
 #######################################################
 claymore-xmr=proxywallet Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee
 claymore-xmr=proxypool1 pool.sumokoin.hashvault.pro:5555
@@ -54,31 +62,21 @@ claymore-xmr=proxypool2 mine.sumo.fairpool.xyz:5555
 #claymore-xmr=proxywallet ultralord
 #claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
 #claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
-#claymore-xmr=poolpass1 x
-#claymore-xmr=poolpass2 x
 #######################################################
-sgminer-gm-xmr=proxywallet ultralord
-sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
-sgminer-gm-xmr=poolpass1 x
-sgminer-gm-xmr=poolpass2 x
+#sgminer-gm-xmr=proxywallet ultralord
+#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
+#sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
 #######################################################
 #claymore-xmr=proxywallet etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948
 #claymore-xmr=proxypool1 etn-us-east1.nanopool.org:13333
 #claymore-xmr=proxypool2 etn-us-west1.nanopool.org:13333
-#claymore-xmr=poolpass1 x
-#claymore-xmr=poolpass2 x
 #######################################################
 dstm-zcash=proxywallet ultralord
 dstm-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
 dstm-zcash=proxypool2 europe.equihash-hub.miningpoolhub.com:17023
-dstm-zcash=poolpass1 x
-dstm-zcash=poolpass2 x
 #######################################################
 ccminer=flags -a lyra2rev2
 ccminer=proxywallet ultralord
 ccminer=proxypool1 hub.miningpoolhub.com:17018
 ccminer=proxypool2 mona.suprnova.cc:2995
-ccminer=poolpass1 x
-ccminer=poolpass2 x
 #######################################################
