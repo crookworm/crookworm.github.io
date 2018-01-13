@@ -89,3 +89,4 @@ Ledger Hcash - HRjqjsXnMv2dRaCi3CqpdGYgQz8WW4ncno
 ---------------------------------------------------------------
 Ledger ARK - AZifFb3DNgJpHzfNDcPbNtU8ftCxWp8Y96
 ---------------------------------------------------------------
+Cardano - DdzFFzCqrhsk2UCb3b1WFQicphCypyU3vYVFZhqoyKDfLPgdgwNDGYef3dL33DvBS6JWzbUH42ZjCHjcunm7Di4DDX4kBu553yj8bPhR
