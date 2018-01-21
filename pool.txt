@@ -57,8 +57,8 @@ claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 #######################################################
 claymore-xmr=proxywallet G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs
-claymore-xmr=proxypool1 us.mine.graft.network:4444
-claymore-xmr=proxypool2 eu.mine.graft.network:4444
+claymore-xmr=proxypool1 stratum+tcp://us.mine.graft.network:4444
+claymore-xmr=proxypool2 stratum+tcp://eu.mine.graft.network:4444
 claymore-xmr=poolpass1 x
 claymore-xmr=poolpass2 x
 #claymore-xmr=proxywallet Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee
