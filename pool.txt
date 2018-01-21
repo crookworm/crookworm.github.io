@@ -18,8 +18,8 @@ pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2050 2000 2050 2000 2000 2000
 vlt 4f36b8 880 880 880 880 880 880
-flg 1a3064 -mport 0
-nane 1a3064 disabled
+flg 4f36b8 -mport 0
+nane 4f36b8 disabled
 #######################################################
 #H270 Rig
 miner ef105b claymore
