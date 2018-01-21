@@ -13,7 +13,7 @@ flg 1a3064 -mport 0
 name 1a3064 disabled
 #######################################################
 #ASUS Rig
-miner 4f36b8 claymore
+miner 4f36b8 claymore-xmr
 pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2050 2050 2050 2000 2000 2050
