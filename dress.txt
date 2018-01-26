@@ -92,3 +92,5 @@ Ledger ARK - AZifFb3DNgJpHzfNDcPbNtU8ftCxWp8Y96
 Cardano - DdzFFzCqrhsk2UCb3b1WFQicphCypyU3vYVFZhqoyKDfLPgdgwNDGYef3dL33DvBS6JWzbUH42ZjCHjcunm7Di4DDX4kBu553yj8bPhR
 ---------------------------------------------------------------
 Graft - G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs
+---------------------------------------------------------------
+Intense - iz6D7VQrm242iw1Wd9NkZZSnAFUtkW8uEbE8EYaMXfBxEZAmEkDgAXtg2Z2FeAcBnSTtWVMJBskmAD22cvtF1kyq1cmvkLYD5
