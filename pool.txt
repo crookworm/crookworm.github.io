@@ -84,7 +84,7 @@ claymore-xmr=poolpass2 x
 #######################################################
 dstm-zcash=proxywallet ultralord
 #dstm-zcash=proxywallet t1QA7iz8A1BC6ZkuVHcAYt3mwPXod1SbQZe
-#dstm-zcash=proxypool1 pool.zclassic.org:2083
+#dstm-zcash=proxypool1 pool.zclassic.org:3053
 dstm-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
 dstm-zcash=proxypool2 europe.equihash-hub.miningpoolhub.com:17023
 #######################################################
