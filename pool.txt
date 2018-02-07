@@ -49,9 +49,9 @@ mem 74577c +525
 #######################################################
 #Core2Duo
 miner c5f656 dstm-zcash
-pwr c5f656 140 150 140 140
-cor c5f656 +150 +150 +150 +150
-mem c5f656 +525 +525 +525 +525
+pwr c5f656 200
+cor c5f656 +150
+#mem c5f656 +525 +525 +525 +525
 #######################################################
 #claymore=proxywallet ultralord
 #claymore=proxypool1 us-east.ethash-hub.miningpoolhub.com:17020
