@@ -3,6 +3,7 @@ stratumproxy enabled
 globalfan 85
 custompanel hybrid111111
 claymore=flags -mport 0 -colors 1
+claymore-xmr=flags -mport 0 -colors 1
 #######################################################
 #Sapphire Rig
 miner 1a3064 claymore-xmr
