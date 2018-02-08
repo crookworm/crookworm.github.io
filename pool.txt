@@ -6,22 +6,22 @@ claymore=flags -mport 0 -colors 1
 claymore-xmr=flags -mport 0 -colors 1
 #######################################################
 #Sapphire Rig
-miner 1a3064 claymore-xmr
+miner 1a3064 claymore
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2050 2050 2050 2050 2050
 vlt 1a3064 825 825 850 850 875 875
 desktop 1a3064 disabled
-name 1a3064 disabled
+#name 1a3064 disabled
 #######################################################
 #ASUS Rig
-miner 4f36b8 claymore-xmr
+miner 4f36b8 claymore
 pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2050 2050 2050 2025 2000 2050
 vlt 4f36b8 880 880 880 880 880 880
 desktop 4f36b8 disabled
-name 4f36b8 disabled
+#name 4f36b8 disabled
 #######################################################
 #H270 Rig
 miner ef105b claymore
@@ -54,12 +54,12 @@ pwr c5f656 200
 cor c5f656 +150
 #mem c5f656 +525 +525 +525 +525
 #######################################################
-#claymore=proxywallet ultralord
-#claymore=proxypool1 us-east.ethash-hub.miningpoolhub.com:17020
-#claymore=proxypool2 europe.ethash-hub.miningpoolhub.com:17020
-claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-claymore=proxypool1 us1.ethermine.org:4444
-claymore=proxypool2 us2.ethermine.org:4444
+#claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#claymore=proxypool1 us1.ethermine.org:4444
+#claymore=proxypool2 us2.ethermine.org:4444
+claymore=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
+claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 #######################################################
 #claymore-xmr=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 #claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
@@ -73,12 +73,7 @@ claymore-xmr=poolpass2 x
 #claymore-xmr=proxypool1 pool.sumokoin.hashvault.pro:5555
 #claymore-xmr=proxypool2 mine.sumo.fairpool.xyz:5555
 #claymore-xmr=proxywallet ultralord
-#claymore-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#claymore-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
 #######################################################
-#sgminer-gm-xmr=proxywallet ultralord
-#sgminer-gm-xmr=proxypool1 us-east.cryptonight-hub.miningpoolhub.com:20580
-#sgminer-gm-xmr=proxypool2 us-east.monero.miningpoolhub.com:20580
 #######################################################
 #claymore-xmr=proxywallet etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948
 #claymore-xmr=proxypool1 etn-us-east1.nanopool.org:13333
