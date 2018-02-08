@@ -5,22 +5,22 @@ custompanel hybrid111111
 claymore=flags -mport 0 -colors 1
 #######################################################
 #Sapphire Rig
-miner 1a3064 claymore
+miner 1a3064 claymore-xmr
 pwr 1a3064 3 3 3 3 3 3
 cor 1a3064 1200 1200 1200 1200 1200 1200
 mem 1a3064 2150 2050 2050 2050 2050 2050
 vlt 1a3064 825 825 850 850 875 875
 desktop 1a3064 disabled
-#name 1a3064 disabled
+name 1a3064 disabled
 #######################################################
 #ASUS Rig
-miner 4f36b8 claymore
+miner 4f36b8 claymore-xmr
 pwr 4f36b8 2 2 2 2 2 2
 cor 4f36b8 1150 1150 1150 1150 1150 1150
 mem 4f36b8 2050 2050 2050 2025 2000 2050
 vlt 4f36b8 880 880 880 880 880 880
 desktop 4f36b8 disabled
-#name 4f36b8 disabled
+name 4f36b8 disabled
 #######################################################
 #H270 Rig
 miner ef105b claymore
@@ -60,12 +60,12 @@ claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
 claymore=proxypool1 us1.ethermine.org:4444
 claymore=proxypool2 us2.ethermine.org:4444
 #######################################################
-claymore-xmr=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
-claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
-claymore-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
-#claymore-xmr=proxywallet G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs
-#claymore-xmr=proxypool1 stratum+tcp://us.mine.graft.network:4444
-#claymore-xmr=proxypool2 stratum+tcp://eu.mine.graft.network:4444
+#claymore-xmr=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
+#claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
+#claymore-xmr=proxypool2 cryptonight.eu.nicehash.com:3355
+claymore-xmr=proxywallet G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs
+claymore-xmr=proxypool1 stratum+tcp://us.mine.graft.network:4444
+claymore-xmr=proxypool2 stratum+tcp://eu.mine.graft.network:4444
 claymore-xmr=poolpass1 x
 claymore-xmr=poolpass2 x
 #claymore-xmr=proxywallet Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee
