@@ -2,7 +2,7 @@ maxgputemp 85
 stratumproxy enabled
 globalfan 85
 custompanel hybrid111111
-claymore=flags -esm 3 -mport 0 -colors 1
+claymore=flags -mport 0 -colors 1
 claymore-xmr=flags -mport 0 -colors 1
 #######################################################
 #Sapphire Rig
@@ -54,12 +54,12 @@ pwr c5f656 200
 cor c5f656 +150
 #mem c5f656 +525 +525 +525 +525
 #######################################################
-#claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-#claymore=proxypool1 us1.ethermine.org:4444
-#claymore=proxypool2 us2.ethermine.org:4444
-claymore=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
-claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
-claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
+claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+claymore=proxypool1 us1.ethermine.org:4444
+claymore=proxypool2 us2.ethermine.org:4444
+#claymore=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
+#claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
+#claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
 #######################################################
 #claymore-xmr=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 #claymore-xmr=proxypool1 cryptonight.usa.nicehash.com:3355
