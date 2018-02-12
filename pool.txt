@@ -79,12 +79,12 @@ claymore-xmr=poolpass2 x
 #claymore-xmr=proxypool1 etn-us-east1.nanopool.org:13333
 #claymore-xmr=proxypool2 etn-us-west1.nanopool.org:13333
 #######################################################
-dstm-zcash=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
-dstm-zcash=proxypool1 equihash.usa.nicehash.com:3357
-dstm-zcash=proxypool2 equihash.eu.nicehash.com:3357
-#dstm-zcash=proxywallet ultralord
-#dstm-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
-#dstm-zcash=proxypool2 europe.equihash-hub.miningpoolhub.com:17023
+#dstm-zcash=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
+#dstm-zcash=proxypool1 equihash.usa.nicehash.com:3357
+#dstm-zcash=proxypool2 equihash.eu.nicehash.com:3357
+dstm-zcash=proxywallet ultralord
+dstm-zcash=proxypool1 us-east.equihash-hub.miningpoolhub.com:17023
+dstm-zcash=proxypool2 europe.equihash-hub.miningpoolhub.com:17023
 #######################################################
 ccminer=flags -a lyra2rev2
 ccminer=proxywallet ultralord
