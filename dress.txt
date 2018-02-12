@@ -94,3 +94,5 @@ Cardano - DdzFFzCqrhsk2UCb3b1WFQicphCypyU3vYVFZhqoyKDfLPgdgwNDGYef3dL33DvBS6JWzb
 Graft - G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs
 ---------------------------------------------------------------
 Intense - iz6D7VQrm242iw1Wd9NkZZSnAFUtkW8uEbE8EYaMXfBxEZAmEkDgAXtg2Z2FeAcBnSTtWVMJBskmAD22cvtF1kyq1cmvkLYD5
+---------------------------------------------------------------
+Nukowallet - 0x2540508EE6f1c6C82484b7920f91A1fb314aaABC
