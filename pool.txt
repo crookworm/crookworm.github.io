@@ -54,9 +54,12 @@ pwr c5f656 200
 cor c5f656 +150
 #mem c5f656 +525 +525 +525 +525
 #######################################################
-claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
-claymore=proxypool1 us1.ethermine.org:4444
-claymore=proxypool2 us2.ethermine.org:4444
+claymore=proxywallet 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
+claymore=proxypool1 us1-etc.ethermine.org:4444
+claymore=proxypool2 eu1-etc.ethermine.org:4444
+#claymore=proxywallet 0x75b78c52b3e6858b18937c00b947f2b14b5a62c3
+#claymore=proxypool1 us1.ethermine.org:4444
+#claymore=proxypool2 us2.ethermine.org:4444
 #claymore=proxywallet 3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg
 #claymore=proxypool1 daggerhashimoto.usa.nicehash.com:3353
 #claymore=proxypool2 daggerhashimoto.eu.nicehash.com:3353
