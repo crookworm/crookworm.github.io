@@ -26,7 +26,6 @@ LTC Ledger Legacy - LbnmTSseAXAYR3JnxUd1cevtKiehBvudh1
 LTC Ledger Segwit - MP244qAWQfMka5fR9wXc2ScXPRCHGVRUzX
 LTC Exodus - LgfdSdBf18agK3ptZHqwERANSveaenG3xL
 ----------------------------------------------------------------
-Polo XMR Deposit Address - 4JUdGzvrMFDWrUUwY3toJATSeNwjn54LkCnKBPRzDuhzi5vSepHfUckJNxRL2gjkNrSqtCoRUrEDAgRwsQvVCjZbS653RdRsw5U8veU2ag
 MyMonero Deposit - 47g24iCRvthX8KCqsrygJHQXZmUAJcPWL9tKD3yL7B76EQMnEvtgZaufrjqi2cy9V41iJa7dx2e7fQ1WPs6Ju99US9p48hb
 XMR - 41fH8A7xVCmMPtVmqRd9DY3E2t4TCoNYe4kWMsy4k9iAVwgQTNP6Qm2EuyzPyu63ez1TcxUVAc1gh8XfqMKEEaw47PFLegR
 ----------------------------------------------------------------
@@ -46,9 +45,7 @@ Cryptopia SIGT - B8yfQfzz8U5ufdA3He8NBA5LCMo6Z8uTQS
 
 Cryptopia DNR - DLdkay48eEE1iZuAarCmybDhGy6nbtNwQ3
 ---------------------------------------------------------------
-
 BCC - 8SAfVtt19v9QEmVNsASY2awVUooU7pnTh9
-
 ---------------------------------------------------------------
 Ledger Bitcoin Cash - 16ALsQLvg1ujRqENF7uAo8MMqHZvh59hkW
 New BCC - 1AK96mDVXrKTNbcABsJHsaVRuNqudcgkXj
@@ -94,6 +91,7 @@ Cardano - DdzFFzCqrhsk2UCb3b1WFQicphCypyU3vYVFZhqoyKDfLPgdgwNDGYef3dL33DvBS6JWzb
 Graft - G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs
 ---------------------------------------------------------------
 Intense - iz6D7VQrm242iw1Wd9NkZZSnAFUtkW8uEbE8EYaMXfBxEZAmEkDgAXtg2Z2FeAcBnSTtWVMJBskmAD22cvtF1kyq1cmvkLYD5
+New Intense - iz4kgCkZPdEXDyBAbbeG8HfZZkUKWsSmDBTPAFxfP1Cu9eBnAitEgozL1qVMbms6MqXLWCtUSRbUm5gGmMeC24sA1xZ5pgiCq
 ---------------------------------------------------------------
 Nukowallet - 0x2540508EE6f1c6C82484b7920f91A1fb314aaABC
 ---------------------------------------------------------------
