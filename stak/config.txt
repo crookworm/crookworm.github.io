@@ -13,13 +13,15 @@
  */
 "pool_list" :
 [
-//	{"pool_address" : "pool.sumokoin.hashvault.pro:5555", "wallet_address" : "Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 4 },
-//	{"pool_address" : "etn-us-east1.nanopool.org:13333", "wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 6 },
-//	{"pool_address" : "ny.minetrtl.us:5555", "wallet_address" : "TRTLuzp9pcpgkEqYoNbyY2BJ9vwRp9vEFPvg36Z8kTEePVHTMLUSsi7b5Z6QugvDZ9inXUsbyr7WV1bAtfHzf7st6hmZAmNs1ME", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 5 },
-//	{"pool_address" : "slowandsteady.fun:7777", "wallet_address" : "TRTLuzp9pcpgkEqYoNbyY2BJ9vwRp9vEFPvg36Z8kTEePVHTMLUSsi7b5Z6QugvDZ9inXUsbyr7WV1bAtfHzf7st6hmZAmNs1ME", "pool_password" : "x", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 4 },
-	{"pool_address" : "pool.itnspool.net:7777", "wallet_address" : "iz4kgCkZPdEXDyBAbbeG8HfZZkUKWsSmDBTPAFxfP1Cu9eBnAitEgozL1qVMbms6MqXLWCtUSRbUm5gGmMeC24sA1xZ5pgiCq.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 5 },
-	{"pool_address" : "stratum+tcp://cryptonight.usa.nicehash.com:3355", "wallet_address" : "3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg.frontier", "pool_password" : ".195", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 4 },
-	{"pool_address" : "xmr-us-east1.nanopool.org:14444", "wallet_address" : "41fH8A7xVCmMPtVmqRd9DY3E2t4TCoNYe4kWMsy4k9iAVwgQTNP6Qm2EuyzPyu63ez1TcxUVAc1gh8XfqMKEEaw47PFLegR.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+//	{"pool_address" : "stratum+tcp://us.mine.graft.network:4444", "wallet_address" : "G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 7 },
+//	{"pool_address" : "stratum+tcp://eu.mine.graft.network:4444", "wallet_address" : "G4Xy9CiY6JRNRjYji75mxPfmw1QHyNjVX94r5KXj2tymLE2wCmnmX3UBVavjP2V12YDdD9Kk7FsvXAKvgdnQwwjyBfsBiPs.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 6 },
+//	{"pool_address" : "pool.leviarcoin.org:5555", "wallet_address" : "LsDjN4vDhDSjT21daqyiZ96z6vaZeyssGLcVUAfjYUxjdwuAZ9ki6iNZYNupRwKvmGdnoV1GAwmoHGgquP2eNdyC3v4hRPo.4d375e81aa8d2e2e06051418145bccb882ba90fb1a5238197ec271144e91eaef", "pool_password" : "Frontier", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 6 },
+	{"pool_address" : "pool.sumokoin.hashvault.pro:5555", "wallet_address" : "Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 6 },
+	{"pool_address" : "stratum+tcp://cryptonight.usa.nicehash.com:3355", "wallet_address" : "3KcNRPscNkqBDLAyibcRPvdSvoKaWFpyxg.frontier", "pool_password" : ".195", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 5 },
+//	{"pool_address" : "pool.electroneum.hashvault.pro:443", "wallet_address" : "etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948.frontier", "pool_password" : "x", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 7 },
+	{"pool_address" : "pool.itnspool.net:7777", "wallet_address" : "iz4kgCkZPdEXDyBAbbeG8HfZZkUKWsSmDBTPAFxfP1Cu9eBnAitEgozL1qVMbms6MqXLWCtUSRbUm5gGmMeC24sA1xZ5pgiCq.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 3 },
+	{"pool_address" : "us-east.cryptonight-hub.miningpoolhub.com:20580", "wallet_address" : "ultralord.frontier", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+	{"pool_address" : "pool.supportxmr.com:443", "wallet_address" : "41fH8A7xVCmMPtVmqRd9DY3E2t4TCoNYe4kWMsy4k9iAVwgQTNP6Qm2EuyzPyu63ez1TcxUVAc1gh8XfqMKEEaw47PFLegR.frontier", "pool_password" : "x", "use_nicehash" : false, "use_tls" : true, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
@@ -166,7 +168,7 @@
  *
  * httpd_port - Port we should listen on. Default, 0, will switch off the server.
  */
-"httpd_port" : 0,
+"httpd_port" : 4001,
 
 /*
  * HTTP Authentication
@@ -178,8 +180,8 @@
  * http_login - Login. Empty login disables authentication.
  * http_pass  - Password.
  */ 
-"http_login" : "",
-"http_pass" : "",
+"http_login" : "peek",
+"http_pass" : "aboo",
  
 /*
  * prefer_ipv4 - IPv6 preference. If the host is available on both IPv4 and IPv6 net, which one should be choose?
