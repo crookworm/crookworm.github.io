@@ -14,14 +14,9 @@
  * ],
  */
 
-"gpu_threads_conf" : [
-  // gpu: gfx900 memory:3920
-  // compute units: 64
-  { "index" : 0,
-    "intensity" : 512, "worksize" : 8,
-    "affine_to_cpu" : false, "strided_index" : true
-  },
-
+"gpu_threads_conf" : [ 
+    { "index" : 0, "intensity" : 1932, "worksize" : 8, "affine_to_cpu" : 1, "strided_index" : true },
+    { "index" : 0, "intensity" : 1932, "worksize" : 8, "affine_to_cpu" : 1, "strided_index" : true },
 ],
 
 /*
