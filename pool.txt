@@ -4,7 +4,7 @@ globalfan 85
 custompanel hybrid111111
 claymore=flags -mport -13333 -colors 1
 claymore-xmr=flags -mport 0 -colors 1
-dstm-zcash=flags --telemetry=0.0.0.0:12222
+dstm-zcash=flags --telemetry=0.0.0.0:12222 --color
 #######################################################
 #Sapphire Rig
 miner 1a3064 claymore
