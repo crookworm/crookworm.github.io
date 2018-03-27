@@ -59,6 +59,7 @@ cor c5f656 +150
 #######################################################
 #TB250Pro
 miner 018b02 claymore
+desltop 018b02 disabled
 cor 115-D009PI2-101 1150
 mem 115-D009PI2-101 2030
 pwr 115-D009PI2-101 2
@@ -85,7 +86,6 @@ claymore=proxypool2 us2.ethermine.org:4444
 #claymore-xmr=proxywallet Sumoo5H59i819DcLT3DjZVToKneE2UE5xFSGCZkzwmdkdg1W8KPF4s8CmAiNzhmEKW9VLupxAvk56JZYp64wTKEgKufmGzsAeq9.c87dba6d5141d10521f52947c473b0ab663d12fe2ed070530fc1d353924eeeee
 #claymore-xmr=proxypool1 pool.sumokoin.hashvault.pro:5555
 #claymore-xmr=proxypool2 mine.sumo.fairpool.xyz:5555
-#######################################################
 #######################################################
 #claymore-xmr=proxywallet etnjzKFU6ogESSKRZZbdqraPdcKVxEC17Cm1Xvbyy76PARQMmgrgceH4krAH6xmjKwJ3HtSAKuyFm1BBWYqtchtq9tBap8Qr4M.4357d737b24d5d117f20bf13efa6950c9386ca923baca3f9082059407fee2948
 #claymore-xmr=proxypool1 etn-us-east1.nanopool.org:13333
