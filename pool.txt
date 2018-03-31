@@ -2,9 +2,9 @@ maxgputemp 85
 stratumproxy enabled
 globalfan 85
 custompanel hybrid111111
-claymore=flags -mport -13333 -colors 1
+claymore=flags -mport 0 -colors 1
 claymore-xmr=flags -mport 0 -colors 1
-dstm-zcash=flags --telemetry=0.0.0.0:12222 --color
+dstm-zcash=flags --color
 #######################################################
 #Sapphire Rig
 miner 1a3064 claymore
@@ -46,9 +46,10 @@ mem 7520bd 2050 2050
 vlt 7520bd 880 880
 #######################################################
 #Dell Rig
-miner 74577c dstm-zcash
-pwr 74577c 140
-cor 74577c +150
+miner 74577c claymore
+#pwr 74577c 140
+pwr 74577c 110
+#cor 74577c +150
 mem 74577c +525
 #######################################################
 #Core2Duo
