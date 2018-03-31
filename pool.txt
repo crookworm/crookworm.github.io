@@ -60,7 +60,7 @@ cor c5f656 +150
 #######################################################
 #TB250Pro
 miner 018b02 claymore
-desltop 018b02 disabled
+desktop 018b02 disabled
 cor 115-D009PI2-101 1150
 mem 115-D009PI2-101 2030
 pwr 115-D009PI2-101 2
