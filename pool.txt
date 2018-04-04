@@ -64,7 +64,7 @@ pwr 018b02 2 2 2 2 2 2 2
 cor 018b02 1150 1150 1150 1150 1150 1150 1150
 mem 018b02 2030 2030 2030 2030 2030 2030 2030
 vlt 018b02 880 880 880 880 880 880 880
-desktop 018b02 disabled
+#desktop 018b02 disabled
 #######################################################
 #claymore=proxywallet 0x010227b1c641d6134b4B7aa4caC1225a7779b9aB
 #claymore=proxypool1 us1-etc.ethermine.org:4444
