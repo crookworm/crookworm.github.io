@@ -57,7 +57,7 @@ miner c5f656 claymore
 #pwr c5f656 200
 pwr c5f656 175
 #cor c5f656 +150
-#mem c5f656 +400
+mem c5f656 +400
 #######################################################
 #TB250Pro
 miner 018b02 claymore
