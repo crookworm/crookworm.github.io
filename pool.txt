@@ -1,4 +1,4 @@
-maxgputemp 85
+maxgputemp 90
 stratumproxy enabled
 globalfan 85
 custompanel hybrid111111
