@@ -45,18 +45,18 @@ mem 7520bd 1900 1900
 vlt 7520bd 900  900
 #######################################################
 #Dell Rig
-miner 74577c dstm-zcash
-pwr 74577c 140
-#pwr 74577c 110
-cor 74577c +150
+miner 74577c claymore
+#pwr 74577c 140
+pwr 74577c 110
+#cor 74577c +150
 mem 74577c +525
 #######################################################
 #Core2Duo
-miner c5f656 dstm-zcash
-pwr c5f656 200
-#pwr c5f656 175
-cor c5f656 +150
-#mem c5f656 +400
+miner c5f656 claymore
+#pwr c5f656 200
+pwr c5f656 170
+#cor c5f656 +150
+mem c5f656 +450
 #######################################################
 #TB250Pro
 miner 018b02 claymore
